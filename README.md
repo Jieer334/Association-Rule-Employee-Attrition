@@ -10,3 +10,6 @@ The analysis process is as follows：
 - Fine tune the model by experimenting with different algorithm hyper-parameters and discuss how tuning those hyper-parameters could impact - - the model performance (e.g. overfitting or underfiting).
 - Output and present the top 5 rules which predict those who stay vs. who leave.
 - Provide interpretations of the above chosen association rules and also discuss why you consider them interesting and significant.
+
+#### Please use the below link to view the notebook if you are receiving the 'Sorry, soemthing went wrong. Reload?' error message.
+https://nbviewer.jupyter.org/github/Jieer334/Association-Rule-Employee-Attrition/blob/main/Data%20Preparation%20and%20Association%20Rule%20Mining.ipynb

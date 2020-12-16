@@ -14,4 +14,4 @@ The analysis process is as follows：
 
 ###  If unbale to view the notebook in Github
 Please use the below link to view the notebook if you are receiving the 'Sorry, soemthing went wrong. Reload?' error message.
-https://nbviewer.jupyter.org/github/Jieer334/Association-Rule-Employee-Attrition/blob/main/Data%20Preparation%20and%20Association%20Rule%20Mining.ipynb
+https://nbviewer.jupyter.org/

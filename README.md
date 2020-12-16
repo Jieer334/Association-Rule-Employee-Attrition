@@ -1,6 +1,8 @@
 # Association Rule Employee Attrition
 
-This project is going to analyze the employee_attrition.csv, which contains the detailed information of each employee, such as age, department, education, whether they will stay at the company (attrition), etc. The analysis process is as follows：
+This project is going to analyze the employee_attrition.csv, which contains the detailed information of each employee, such as age, department, education, whether they will stay at the company (attrition), etc. The data is provided by the professor who taught me the IST707 Applied Machine Learning at Syracuse University. 
+
+The analysis process is as follows：
 
 - Data cleaning, pre-processing: Judge the necessity of variables, deal NAs and outlier with appropriate methods.
 - Exploratory data analysis (EDA): Descriptive statistics and apply data visualization to check for interesting data patterns.
